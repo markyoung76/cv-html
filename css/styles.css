@@ -5,6 +5,14 @@ body {
 hr {
   border-style: none;
   border-top-style: solid;
+  border-color: lightgrey;
+  border-width: 1px;
+  width: 100%;
+}
+/*
+hr {
+  border-style: none;
+  border-top-style: solid;
   border-color: #75D5FF;
   border-width: 1px;
   width: 100%;
@@ -25,3 +33,4 @@ h4 {
 h5 {
   color: #0296FF;
 }
+*/
